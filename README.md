@@ -38,6 +38,13 @@ On-chain lottery system built with Foundry
 
 ---
 
+## 🏗️ Experience
+
+### BLOK Capital — Builder Track  
+- Selected for advanced builder track after completing 4-week cohort  
+- Contributing to core repositories and protocol-level development  
+- Working in a collaborative Web3 engineering environment  
+
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/usetech-nick
