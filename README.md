@@ -6,7 +6,7 @@ I build DeFi protocols in Foundry, and I'm learning to break them: audit contest
 
 ## Now (Oct 2026 to Apr 2027)
 
-- Working through Ethernaut and Damn Vulnerable DeFi, and writing up each bug class in [audit-notes](https://github.com/usetech-nick/audit-notes)
+- Working through Ethernaut and Damn Vulnerable DeFi, and writing up each bug class in [audit-notes](https://github.com/usetech-nick/ethernaut-writeups)
 - Entering audit contests on Code4rena, Sherlock, Cantina and CodeHawks
 - Reproducing public hacks as Foundry fork tests
 - Self-auditing Vault Garden and publishing the report
